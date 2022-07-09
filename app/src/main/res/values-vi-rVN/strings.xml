@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Báo Pin Đầy</string>
+    <string name="Charger_Alarm_is_running">Báo Pin Đầy đang chạy...</string>
+    <string name="Tap_for_more_infomation">Chạm vào để xem thông tin hoặc tắt thông báo</string>
+    <string name="Full_Battery_Alarm">Báo đầy Pin</string>
+    <string name="Ringing_alarm_when_your_battery_is_100_charged">(Chuông sẽ báo khi Pin đã được sạc đầy 100%)</string>
+    <string name="instruction">Hướng dẫn</string>
+    <string name="instruction_description">Mở ứng dụng và cắm sạc. Ứng dụng sẽ tự động phát thông báo khi pin được sạc đầy 100%</string>
+</resources>

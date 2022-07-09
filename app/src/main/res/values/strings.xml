@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Full Battery Charge Alarm</string>
+
+    <!--  ====================================================  -->
+    <string name="Charger_Alarm_is_running">Full Battery Alert is running...</string>
+    <string name="Tap_for_more_infomation">Tap for more infomation or to stop the app</string>
+    <string name="Full_Battery_Alarm">Full Battery Alarm</string>
+    <string name="Ringing_alarm_when_your_battery_is_100_charged">(Ring alarm when your battery is 100% charged)</string>
+    <string name="instruction">Instruction</string>
+    <string name="instruction_description">Open application and plugin your charger. Automatically ringing alarm when your battery is 100% charged</string>
+</resources>
